@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sgoloskov
 - 👀 I’m interested in program
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning manjaro
+- 💞️ I’m looking to collaborate on qt
+- 📫 How to reach me nirvana
 
 <!---
 Sgoloskov/Sgoloskov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
