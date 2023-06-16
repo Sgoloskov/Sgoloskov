@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sgoloskov
-- 👀 I’m interested in program
-- 🌱 I’m currently learning manjaro
-- 💞️ I’m looking to collaborate on qt
-- 📫 How to reach me qt
+- 👀 I’m a former programmerand now my hobby is programming
+- 🌱 I’m currently learning Alt Linux
+- 💞
 
 <!---
 Sgoloskov/Sgoloskov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
